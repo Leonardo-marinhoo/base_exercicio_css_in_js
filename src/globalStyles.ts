@@ -2,8 +2,8 @@ import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyle = createGlobalStyle`
  :root {
-  --cor-principal: #a7727d;
-  --cor-secundaria: #f9f5e7;
+  --cor-principal: #1a1a1a;
+  --cor-secundaria: #ffffff;
 }
 
 * {
@@ -16,6 +16,7 @@ const GlobalStyle = createGlobalStyle`
 
 body {
   padding-bottom: 120px;
+  background-color: #f0f0f0;
 }
 
 .container {

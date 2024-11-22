@@ -12,6 +12,7 @@ const Header = styled.header`
   color: var(--cor-principal);
   text-align: center;
   padding: 24px 0;
+  text-transform: uppercase;
 `
 
 const Cabecalho = () => {

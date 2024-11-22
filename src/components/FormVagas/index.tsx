@@ -12,6 +12,7 @@ const FormContainer = styled.form`
   padding: 32px;
   border-radius: 12px;
   margin-top: 40px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
 `
 const SearchBtn = styled.button`
   background-color: var(--cor-principal);
